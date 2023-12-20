@@ -1,5 +1,5 @@
 # Natural Language Processing
--> The first project i have done in NLP.
+-> This is my first project  in NLP.
 -> Spam and Non Spam classifiers.
 -> Data preprocessing has been done initially.
 -> Here i have used different classifiers  models.
