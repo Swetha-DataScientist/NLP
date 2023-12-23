@@ -9,4 +9,8 @@
 * Here i have learned how to preprocess the unstructured data to structured data
 * applied classification models for the prediction
 * finally for this xgboost classifier has high accuracy in prediction.
-* hence ths xgboost classifier works better for this data. 
+* hence ths xgboost classifier works better for this data.
+
+*->Instagram-Recommendation-system-with-machine-learning
+* The Third project in NLP
+* Application of the project - Recommendation of Instagram posts based on the captions of the posts.
